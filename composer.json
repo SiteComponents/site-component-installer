@@ -1,0 +1,19 @@
+{
+    "name": "codingmatters/site-component-installer",
+    "description": "Site Component Installer",
+    "type": "metapackage",
+    "keywords": ["site component", "zf module"],
+    "homepage": "https://chronicles.codingmatters.io/site",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gab Amba",
+            "email": "gamba@gabbydgab.com",
+            "homepage": "http://www.gabbydgab.com/"
+        }
+    ],    
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "roave/security-advisories": "dev-master"
+    }
+}
